@@ -1,13 +1,9 @@
-Blocks examples
+Neural Machine translation based on Blocks
 ===============
 
-This repository contains a series of scripts, examples, models, etc. that can
-serve as a guide or inspiration when getting started with Blocks. To get started
-simply clone this repository and hack away at the scripts provided.
-
-.. code-block:: bash
-
-   $ git clone git@github.com:mila-udem/blocks-examples.git
+This repository contains scripts to train and test a neural machine translation system.
+The code is forked from blocks-examples.
+The fixes for saving/loading the models and translating a test set using an existing model are merged in the code here.
 
 
 Running the examples
